@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **NO SQL, NODE.JS, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sibelbso](https://github.com/sibelbso)
+- 👨‍💻 All of my projects are available at [https://github.com/sibelyildiz2024](https://github.com/sibelyildiz2024)
 
-- 📫 How to reach me **sibelbso@yandex.com**
+- 📫 How to reach me **developersibelbso@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sibel-yildiz-08554a16](https://www.linkedin.com/in/sibel-yildiz-08554a16)
 
